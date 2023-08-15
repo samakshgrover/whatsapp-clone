@@ -1,0 +1,30 @@
+LEFT SIDE
+---------
+
+title and favicon
+title_bar: 
+  1. profile_pic
+  2. menu_icons
+search_bar
+list of contacts
+  contact:
+    Saved name
+    last_message
+    tick_mark:
+      double_tick + blue
+      double_tick + grey
+      single_tick
+
+RIGHT/MIDDLE SIDE:
+----------
+
+Dummy image:
+title_bar:
+  1. Profile_pic, name
+  2. search_icon
+  3. settings_icon ==> dummy options
+
+RIGHT SIDE:
+
+contact_info
+
