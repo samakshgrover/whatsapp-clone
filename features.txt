@@ -27,4 +27,3 @@ title_bar:
 RIGHT SIDE:
 
 contact_info
-
