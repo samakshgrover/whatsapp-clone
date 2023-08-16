@@ -8,7 +8,7 @@ import {
   Typography,
 } from "@mui/material";
 import avatar from "../assets/avatar1.jpg";
-import { MenuIcon, SearchIcon } from "./icons/icons";
+import { SearchIcon } from "./icons/icons";
 import { ChatMenu } from "./ChatMenu";
 
 export function ChatHeader() {
