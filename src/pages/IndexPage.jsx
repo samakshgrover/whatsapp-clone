@@ -1,7 +1,7 @@
 import { Grid } from "@mui/material";
 import { Sidebar } from "../containers/Sidebar";
-// import { WhatsappInfoScreen } from "../containers/WhatsappInfoScreen";
-import { ChatScreen } from "../containers/ChatScreen";
+import { WhatsappInfoScreen } from "../containers/WhatsappInfoScreen";
+// import { ChatScreen } from "../containers/ChatScreen";
 
 export default function IndexPage() {
   return (
@@ -10,8 +10,8 @@ export default function IndexPage() {
         <Sidebar />
       </Grid>
       <Grid item xs={8.5} sx={{ height: "100%" }}>
-        {/* <WhatsappInfoScreen /> */}
-        <ChatScreen />
+        <WhatsappInfoScreen />
+        {/* <ChatScreen /> */}
       </Grid>
     </Grid>
   );

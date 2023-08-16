@@ -1,17 +1,16 @@
 LEFT SIDE
 ---------
 
-- tick_mark: single_tick, double_tick (grey, blue)
-- Dummy Menu options
+- Make chatScreen and WhatsappInfoScreen dynamic with the help of react state
+- Dummy Menu options (common to other middle screen too too)
+- Change bg-pic in chat body
+- (optional) tick_mark: single_tick, double_tick (grey, blue)
       
 RIGHT/MIDDLE SIDE:
 ----------
-  - Light gray text color at all places
-  - border bw left and right containers
   - initialScreen border bottom: use this #25d366
 - title_bar:
   - Profile_pic, name, last seen time
   - search_icon
-  - settings_icon ==> dummy menu options
+  - settings_icon ==> Dummy Menu options
 
-- Make chatScreen and WhatsappInfoScreen dynamic with the help of react state
