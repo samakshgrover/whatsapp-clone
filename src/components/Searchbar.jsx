@@ -37,7 +37,7 @@ export function Searchbar() {
         />
       </Box>
 
-      <IconButton sx={{ p: "10px", color: customColors.icon }} aria-label="directions">
+      <IconButton sx={{ p: "10px", color: customColors.icon }}>
         <FilterIcon />
       </IconButton>
     </Paper>

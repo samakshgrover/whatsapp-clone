@@ -2,10 +2,10 @@ import { AppBar, Avatar, ButtonGroup, Toolbar } from "@mui/material";
 import avatar from "../assets/avatar1.jpg";
 import {
   CommunitiesIcon,
-  MenuIcon,
   NewChatIcon,
   StatusIcon,
 } from "./icons/icons";
+import { SidbarMenu } from "./SidebarMenu";
 
 export function SidebarHeader() {
   return (
@@ -45,7 +45,7 @@ function HeaderIcons() {
       <CommunitiesIcon />
       <StatusIcon />
       <NewChatIcon />
-      <MenuIcon />
+      <SidbarMenu/>
     </ButtonGroup>
   );
 }
