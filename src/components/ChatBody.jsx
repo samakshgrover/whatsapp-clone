@@ -54,8 +54,9 @@ const MessageText = styled("p")(() => ({}));
 
 export function ChatBody() {
   return (
-    <Box sx={{ flex:1, backgroundImage:'url("/bg.jpg"), rgba(255, 255, 0, 0.5)', overflowY: 'auto' }}>
+    <Box sx={{ flex:1, backgroundImage:'url("/bg.jpg")', overflowY: 'auto' }}>
       <RightAlign>
+
       <MessageMe>
         <MessageText>
           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
