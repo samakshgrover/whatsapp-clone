@@ -26,11 +26,11 @@ function ContactName() {
   return (
     <Stack sx={{ flex: 1 }}>
       <Box>Niranjan</Box>
-      <Box>last message</Box>
+      <Box sx={{ color: 'var(--secondary-color)', fontSize:'14px'}}>last message</Box>
     </Stack>
   );
 }
 
 function TimeComponent() {
-  return <div>8:53 Pm</div>;
+  return <Box sx={{color: 'var(--secondary-color)', fontSize:'14px'}}>8:53 Pm</Box>;
 }

@@ -1,5 +1,6 @@
 :root{
   --scroll-bar-color: rgba(0,0,0,0.3);
+  --secondary-color: rgb(102, 119, 129);
 }
 
 /* Custom scrollbar  */
